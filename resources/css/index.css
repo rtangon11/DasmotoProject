@@ -1,0 +1,58 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    z-index: 100;
+    position: relative;
+}
+
+#image-header {
+    position: absolute;
+    height: 25%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#title-brushes {
+    margin-top: 100px;
+}
+
+#title-brushes {
+    background-color: mediumspringgreen;
+}
+
+#title-frames {
+    background-color: lightcoral;
+}
+
+#title-paint {
+    background-color: skyblue;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+h4 {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    background-color: bisque;
+}
+
+#contact-us {
+    text-align: center;
+}
